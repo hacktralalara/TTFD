@@ -1,4 +1,21 @@
+# Node
 node_modules/
+dist/
+
+# Разрешить json-конфиги, которые глушит корневой .gitignore (*.json)
+!package.json
+!package-lock.json
+!tsconfig.json
+
+# Env
 .env
-.DS_Store
+.env.*
+!.env.example
+
+# Python (server)
+__pycache__/
+*.pyc
+
+# Логи и временные файлы
 *.log
+*.tmp
