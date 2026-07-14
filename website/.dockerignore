@@ -1,0 +1,11 @@
+node_modules
+dist
+__pycache__
+*.pyc
+.env
+.env.*
+Dockerfile
+.dockerignore
+.gitignore
+README.md
+UPLOAD_REPORT.md
