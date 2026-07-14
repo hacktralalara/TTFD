@@ -1,1 +1,1 @@
-web: python main.py
+web: cd discord-bot && python bot.py

@@ -1,0 +1,11 @@
+.git
+website/node_modules
+website/dist
+website.zip
+cleaner
+optimizer
+__pycache__
+**/__pycache__
+*.pyc
+.env
+.env.*
